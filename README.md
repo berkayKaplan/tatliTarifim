@@ -1,0 +1,2 @@
+# tatliTarifim
+ patikaDev
