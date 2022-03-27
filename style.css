@@ -1,0 +1,32 @@
+body{
+    background-color: #b11226;
+}
+h1{
+    color: gray;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color:yellowgreen;
+    font-size: xx-large;
+}
+h4{
+    color: whitesmoke;
+    font-size: medium;
+    border-radius: 10px;
+     width:fit-content
+}
+p{
+    color: aqua;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    position:absolute; 
+    top:10em; 
+    left:30em;
+}
+#afiyetOlsun{
+    text-align:right;
+     font-family:'Courier New';
+}
